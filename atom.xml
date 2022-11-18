@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://gameose.github.io</id>
+    <title>Gameose / 游戏盒子</title>
+    <updated>2022-11-18T05:18:24.115Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://gameose.github.io"/>
+    <link rel="self" href="http://gameose.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>http://gameose.github.io/images/avatar.png</logo>
+    <icon>http://gameose.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gameose / 游戏盒子</rights>
+</feed>
